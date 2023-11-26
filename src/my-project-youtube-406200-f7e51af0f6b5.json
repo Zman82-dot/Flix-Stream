@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-youtube-406200",
+  "private_key_id": "f7e51af0f6b5dbd1fe2210e88c9dec3505993cd4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCUWDzSO38+STAL\ny8FfsXN3gyrVrUEZlaFbRN0dFvLR54aM+U2C8mBwCLHab6Gt3nczXHTXjzX0le/F\naMGW5+mmpZJkA1+RuUAQykevBGmqXZ0iBrojhRrSM9+8R6r9V3yKV4Bch+9J0xDO\n1ripRiiCfwqULyIp7RmT4Jcztuggz+LtQPG0yIZwfqwwQLx4+ZBzmHnn8OQ5reUD\nGlefmfy/DwczTHm/G1+PTayJvk0oA6Af0RqACnk2gXeR+Wvbd+n4XNFG4i95W/Jq\n3/dcgcvQlOC9EYFLIlSSU348udOpUdwgiBAkO2avV1MCFEKEZUayY7pFM8a2Hbt6\n0bHMP7iNAgMBAAECggEAKHHWQ0tNaeHyY4Tt9/UdkhwE9bUC5sLQ911TG7dCBNCm\n8pCV/XmvqVv1gaSl5A2fWjV+9bZp84Fdmejxvv8DyRejTflNeSGUwf8khCcj1/sl\n+Dz1SvHjWiQif+baS7AqmF069f9p0irljj8koaIrMUkJzVT8b4nhS1wUXVkk+KzK\nvtNyf8VMViA+++ocJIofufnLz6GeWSjbNELzEbhW3scxdRr3J5FUJWPr4TE8GxZF\nDUE4GCGovAp23c0bwCtkQu7GXkUvVVa66A0oSdtu/vnurv8PdyuMkC70QvOHJGHg\nfyTJZvbp2hv7f78QKSQBkiHRGdRXJAwZRpdxiVBW0QKBgQDNI2L1BrBB1oFX5WNb\nsytHcUKKf56eb5BgggZQJxZ/9DcpFcu4A9DQ1rHnntyMvlsPjmwZo/oo0RiLCYlj\nexqgJOKOPpwEFBrJ7e+t2/5qPl5Zjr3l1b8SSLXjX3U9ruL31zxU9StvY9ZID5GI\n4g8+a54HvNY6800VYapfq/6tOwKBgQC5IAdYYssg2U7Oln9Gi2ATbHNPJpE6Ha72\niI4MynlkgYPoBoQTtGg/bHGSTC1EOBv7vi2CPo2UVya/XpowpX3VdIe1+sFrJPs8\nyv4mrBJ4SdF33bmVELWsXuJemugsaoPpX0i+SDdwt+geb7HG+/cW6r4WFXCdsXYU\n1pt8EMD01wKBgQCwKBEURHgbMW7E4fDekA88PGBdupWljDw5A68UKVzC6B5uI49b\nJ7urepIvSlYublCYHT9rDUsGvfgLfVcDnHUSzFnYuJ8VSYZvnOlTLTVeWsx+r3sW\n4ORBeTroU9LD82hoV+YxNo/kCaG7I9Nf7nAUtClyj5CP8tpg4AuEOJhsfQKBgQCp\nS5YMCUTTxIbiPBUm0TzKZopI3u8+o3imshidr+g1to+Hd7X/QyN2pNhzvsBCu8Ez\nhiaeDlBxUQX5Si1dwWoC869MB4YsUsSDQuwLN58oa/FoWddmb8KEYL1JYQZj4ADE\nQcQHZ4lzxms6slB0tWWwinnNPkwfmfNveRb17WhYPwKBgQCsET1vRxyWMaCgTn/K\nuN0qS/CNHQgntkbxGw5pnxSsjosxiLnZNrderdhcxlqRjExlNk0PPA8HG4b0tq5F\ndnXlEuoNDNs0s/sTAb/XDwZeGROrbKB7avRKTdau6eIswVr/5FtQH/glVamiWvuG\nIUP1cDEch7+MiH+PoierTy71SQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "filmpire@my-project-youtube-406200.iam.gserviceaccount.com",
+  "client_id": "112684596068621870149",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/filmpire%40my-project-youtube-406200.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

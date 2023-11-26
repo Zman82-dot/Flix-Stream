@@ -1,6 +1,26 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700");
 @import url("https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i");
 
+nav{  width: 91%; 
+  
+  font-size: 2rem;
+  color:#625a5a;
+
+  font-family: var(--font-roboto);
+  background: linear-gradient(
+    90deg,
+    rgb(246, 38, 38) 0%,
+    rgba(249, 211, 180, 0) 100%
+  );
+  margin: 25px;
+  border-radius: 30px;
+  padding:15px;
+
+}
+
+
+
+
 * {
   margin: 0;
   border: 0;
@@ -214,6 +234,9 @@ h1 {
 @media screen and (max-width: 400px) {
   .app {
     padding: 4rem 1rem;
+  }
+  p { color: #f0f0f0;
+
   }
 
   h1 {

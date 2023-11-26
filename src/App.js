@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 
 import MovieCard from "./MovieCard";
 import SearchIcon from "./search.svg";
+
 import "./App.css";
 
 const API_URL = " https://www.omdbapi.com/?i=tt3896198&apikey=69fff4d0";
@@ -23,12 +24,14 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1>Flix-Stream</h1>
+    <nav className="nav">Home</nav>
+      <h1>Media-Base</h1>
 
       <div className="search">
         <input
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
+          onClick={(e) => setSearchTerm(e.target.value)}
           placeholder="Search for movies"
         />
         <img
